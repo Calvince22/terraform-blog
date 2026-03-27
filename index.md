@@ -13,3 +13,4 @@
 - [Day 9: Terraform Challenge](./day9-terraform-challenge.html)
 - [Day 10: Terraform Challenge](./day10-terraform-challenge.html)
 - [Day 11: Terraform Challenge](./day11-terraform-challenge.html)
+- [Day 12: Terraform Challenge](./day12-terraform-challenge.html)
