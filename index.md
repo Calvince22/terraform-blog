@@ -17,3 +17,4 @@
 - [Day 14: Terraform Challenge](./day14-terraform-challenge.html)
 - [Day 15: Terraform Challenge](./day15-terraform-challenge.html)
 - [Day 17: Terraform Challenge](./day17-terraform-challenge.html)
+- [Day 18: Terraform Challenge](./day18-terraform-challenge.html)
