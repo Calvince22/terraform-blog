@@ -21,3 +21,4 @@
 - [Day 18: Terraform Challenge](challenge/day18-terraform-challenge.html)
 - [Day 18: Terraform Challenge](challenge/day18-terraform-challenge.html)
 - [Day 19: Terraform Challenge](challenge/day19-terraform-challenge.html)
+- [day 20: Terraform Challenge](challenge/day20-terraform-challenge.html)
